@@ -63,7 +63,7 @@ hr{
 }
 #placeholder{
     border: none;
-    /* border-bottom: 2px solid gray; */
+    /* border-bottom: 1px solid gray; */
 }
 .donate-plan{
     display: flex;
@@ -103,6 +103,21 @@ hr{
     background-color: rgb(226, 226, 226);
     border-radius: 15px;
 }
+.joining-section{
+    display: flex;
+}
+.join-card{
+    display: flex;
+    margin-left: 40px;
+}
+.card-img{
+    margin: 80px 20px 0 20px;
+}
+.join-text-card{
+    text-align: center;
+    width: 400px;
+    margin: 30px 0 0 50px;
+}
 .update-section{
     text-align: center;
 }
@@ -125,6 +140,7 @@ hr{
     border: none;
     width: 100px;
     padding: 15px;
+    color: white;
     background: #C30047;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
