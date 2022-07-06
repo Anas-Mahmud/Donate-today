@@ -96,11 +96,12 @@ hr{
 }
 .donate-case-card{
     text-align: left;
-    height: 450px;
-    width: 500px;
+    height: 440px;
+    width: 450px;
     padding: 0 50px;
+    margin: 100px;
     background-color: rgb(226, 226, 226);
-    border-radius: 10px;
+    border-radius: 15px;
 }
 .update-section{
     text-align: center;
@@ -134,4 +135,7 @@ footer{
     background: black;
     height: 150px;
     padding-top: 20px;
+}
+.font-clr{
+    color: #EFC940;
 }
